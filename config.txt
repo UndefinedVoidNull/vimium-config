@@ -1,0 +1,147 @@
+# unmap default keys
+unmap j
+unmap k
+unmap h
+unmap l
+unmap gg
+unmap G
+unmap zH
+unmap zL
+unmap <c-e>
+unmap <c-y>
+unmap d
+unmap u
+unmap r
+unmap yy
+unmap p
+unmap P
+unmap gi
+unmap [[
+unmap ]]
+unmap gf
+unmap gF
+unmap gu
+unmap gU
+unmap i
+unmap v
+unmap V
+unmap f
+unmap F
+unmap <a-f>
+unmap yf
+unmap /
+unmap n
+unmap N
+unmap o
+unmap O
+unmap T
+unmap b
+unmap B
+unmap ge
+unmap gE
+unmap H
+unmap L
+unmap K
+unmap J
+unmap gt
+unmap gT
+unmap ^
+unmap <<
+unmap >>
+unmap g0
+unmap g$
+unmap W
+unmap t
+unmap yt
+unmap x
+unmap X
+unmap <a-p>
+unmap <a-m>
+unmap m
+unmap `
+unmap ?
+unmap gs
+
+# map
+map w scrollPageUp
+map W scrollToTop
+map s scrollPageDown
+map S scrollToBottom
+map a scrollLeft
+map A previousTab
+map d scrollRight
+map D nextTab
+
+map Q goBack
+map E goForward
+
+map x removeTab
+map X restoreTab
+
+map f LinkHints.activateMode
+map F Vomnibar.activateInNewTab
+
+map r reload
+
+# functions reference
+# scrollDown
+# scrollUp
+# scrollLeft
+# scrollRight
+# scrollToTop
+# scrollToBottom
+# scrollToLeft
+# scrollToRight
+# scrollDown
+# scrollUp
+# scrollPageDown
+# scrollPageUp
+# reload
+# copyCurrentUrl
+# openCopiedUrlInCurrentTab
+# openCopiedUrlInNewTab
+# focusInput
+# goPrevious
+# goNext
+# nextFrame
+# mainFrame
+# goUp
+# goToRoot
+# enterInsertMode
+# enterVisualMode
+# enterVisualLineMode
+# LinkHints.activateMode
+# LinkHints.activateModeToOpenInNewTab
+# LinkHints.activateModeWithQueue    
+# LinkHints.activateModeToCopyLinkUrlenterFindMode
+# performFind
+# performBackwardsFind
+# Vomnibar.activate
+# Vomnibar.activateInNewTab
+# Vomnibar.activateTabSelection      
+# Vomnibar.activateBookmarks
+# Vomnibar.activateBookmarksInNewTab 
+# Vomnibar.activateEditUrl
+# Vomnibar.activateEditUrlInNewTab   
+# goBack
+# goForward
+# nextTab
+# previousTab
+# nextTab
+# previousTab
+# visitPreviousTab
+# moveTabLeft
+# moveTabRight
+# firstTab
+# lastTab
+# moveTabToNewWindow
+# createTab
+# duplicateTab
+# removeTab
+# restoreTab
+# togglePinTab
+# toggleMuteTab
+# Marks.activateCreateMode
+# Marks.activateGotoMode
+# showHelp
+# toggleViewSource
